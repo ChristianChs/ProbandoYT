@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.ts"
+  },
   "dependencies": {
     "walle-utils": "^1.0.1"
   },
